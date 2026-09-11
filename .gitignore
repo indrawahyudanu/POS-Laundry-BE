@@ -1,0 +1,11 @@
+# Abaikan folder Virtual Environment
+venv/
+ENV/
+env/
+
+# Abaikan file rahasia/konfigurasi lokal
+.env
+
+# Abaikan cache Python
+__pycache__/
+*.pyc
